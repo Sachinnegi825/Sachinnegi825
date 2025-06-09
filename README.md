@@ -91,7 +91,7 @@ const sachin = {
 <div align="center">
 
 ### 🧠 Psychological Assessment Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([YOUR_PROJECT_LINK](https://talktomissmp.com/))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://talktomissmp.com/)
 
 **Tech Stack:** React.js • TypeScript • Firebase • Chart.js
 
@@ -105,8 +105,8 @@ const sachin = {
 ---
 
 ### 📝 BlogSpace - Full Stack Blog Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([YOUR_PROJECT_LINK](https://mernstackblog.netlify.app/))
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)]([YOUR_GITHUB_REPO](https://github.com/Sachinnegi825/Mern-Stack-Blog-App))
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://mernstackblog.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Sachinnegi825/Mern-Stack-Blog-App)
 
 **Tech Stack:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
 
