@@ -105,7 +105,7 @@ const sachin = {
 ---
 
 ### 📝 BlogSpace - Full Stack Blog Platform
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://mernstackblog.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([https://mernstackblog.netlify.app/](https://blogspace-mern.netlify.app/))
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Sachinnegi825/Mern-Stack-Blog-App)
 
 **Tech Stack:** MongoDB • Express.js • React.js • Node.js • Tailwind CSS
