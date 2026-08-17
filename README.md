@@ -21,7 +21,7 @@
 const sachin = {
     location: "Delhi, India 🇮🇳",
     role: "Full Stack Developer",
-    experience: "1+ years",
+    experience: "2+ years",
     passion: "Building scalable web applications",
     currentFocus: "React.js, Next.js, TypeScript",
     lifePhilosophy: "Code is poetry written in logic"
